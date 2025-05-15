@@ -30,8 +30,8 @@ Ensure you have the following installed on your system:
 
 1.  **Clone the repository (if you have the code on GitHub):**
     ```bash
-    git clone <repository_url>
-    cd <project_directory>
+    git clone https://github.com/vectorc0de/pulso_ui
+    cd pulso_ui
     ```
 
 2.  **Create a virtual environment (recommended):**
